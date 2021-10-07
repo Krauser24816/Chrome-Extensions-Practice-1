@@ -1,2 +1,2 @@
 # Chrome-Extensions-Practice-1
-Currently in very bad state. :man_facepalming:
+Trying to learn it from google developers.  	:sweat_smile:

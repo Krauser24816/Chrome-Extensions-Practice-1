@@ -1,2 +1,4 @@
 # Chrome-Extensions-Practice-1
-Trying to learn it from google developers.  	:sweat_smile:
+- [Learnt from here](https://developer.chrome.com/docs/extensions/mv3/overview/)
+
+ I have done this just for practice soon would be making my own simple extension.  :innocent:
